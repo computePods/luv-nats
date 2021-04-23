@@ -1,6 +1,12 @@
 MIT License
 
-Copyright (c) 2021 computePods
+Original code Copyright (c) 2015 Eric Pinto
+
+Original code taken on April 23, 2021 
+  from commit 980da7a of 6 Jul 2018 (https://github.com/DawnAngel/lua-nats)
+  used under the original MIT license
+  
+Copyright (c) 2021 Stephen Gaito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
